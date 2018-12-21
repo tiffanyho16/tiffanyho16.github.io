@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2018-12-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
+<center>Hi! My name is Tiffany Ho.</center>
+<img src = "assets/img/smallme.png">
 ## Features
 * Minimal, you can focus on your content
 * Responsive
