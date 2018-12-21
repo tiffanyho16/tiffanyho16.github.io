@@ -7,7 +7,8 @@ comments: false
 ---
     
 <center>Hi! My name is Tiffany Ho.</center>
-<img src = "assets/img/smallme.png">
+![useful image]({{ site.url }}/assets/img/smallme.png)
+
 ## Features
 * Minimal, you can focus on your content
 * Responsive
