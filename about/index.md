@@ -6,8 +6,8 @@ date: 2018-12-21
 comments: false
 ---
     
-<center>Hi! My name is Tiffany Ho.</center>
 ![useful image]({{ site.url }}/assets/img/smallerme.png)
+## <center>Hi! My name is Tiffany Ho.</center>
 
 ## Features
 * Minimal, you can focus on your content
