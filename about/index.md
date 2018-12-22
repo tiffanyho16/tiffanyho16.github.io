@@ -9,30 +9,14 @@ comments: false
 ![useful image]({{ site.url }}/assets/img/smallerme.png)
 ## <center>Hi! My name is Tiffany Ho.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* I'm currently a third year studying computer science at UC Berkeley.
+* I am an organizer of CS Kickstart, a one week introductory camp for incoming female college freshmen interested in pursuing computer science at UC Berkeley.
+* I help teach a student-run course at UC Berkeley called Art for Animation, which focuses on the pre-production pipeline stages of creating an animation.
+* I am a brother of Alpha Phi Omega, a service fraternity.
 
-## Preview
+**Fun Facts**
+* ESFJ 
+* Gemini
+* Chocoholic
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
