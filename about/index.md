@@ -21,5 +21,5 @@ comments: false
 
 ## Resume
 Modified to exclude contact information besides email
-[Click here for my resume!](WebsiteResume.pdf).
+<iframe src="https://drive.google.com/file/d/156rFxDHMtA4RO-muNNFqBSSl4z7ICsz7/preview" width="640" height="480"></iframe>
 
