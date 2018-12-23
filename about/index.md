@@ -19,4 +19,8 @@ comments: false
 * Gemini
 * Chocoholic
 
+## Resume
+Modified to exclude contact information besides email
+<embed src="/assets/WebsiteResume.pdf" width="800px" height="2100px" />
+
 
