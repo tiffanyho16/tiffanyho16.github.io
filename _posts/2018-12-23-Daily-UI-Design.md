@@ -13,3 +13,7 @@ comments: true
      
  
 **[The Daily UI Design Challenge](http://www.dailyui.co/)** is a mail subscription that sends UI prompts and ideas daily for the user to complete.
+
+
+## Day 1 - Sign Up
+<iframe width="560" height="315" src="//https://youtu.be/bUt6So-MOJM" frameborder="0"> </iframe>
