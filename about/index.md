@@ -21,6 +21,5 @@ comments: false
 
 ## Resume
 Modified to exclude contact information besides email
-<embed src="WebsiteResume.pdf" width="800px" height="2100px" />
-
+[Click here for my resume!](WebsiteResume.pdf).
 
