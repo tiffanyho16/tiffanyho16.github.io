@@ -21,6 +21,6 @@ comments: false
 
 ## Resume
 Modified to exclude contact information besides email
-<embed src="/assets/WebsiteResume.pdf" width="800px" height="2100px" />
+<embed src="WebsiteResume.pdf" width="800px" height="2100px" />
 
 
